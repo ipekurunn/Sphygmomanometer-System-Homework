@@ -1,4 +1,4 @@
-# SEDS504_HomewWork1
+# SEDS504_HomeWork1
 
 Write a Java program that simulates a sphygmomanometer (instrument for measuring blood pressure). The sphygmomanometer (Blood Pressure Monitor) device comprises PatientBloodPressure and it has following features:
 
