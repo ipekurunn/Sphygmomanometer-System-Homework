@@ -15,7 +15,6 @@ The sphygmomanometer (Blood Pressure Monitor) device comprises PatientBloodPress
 -Pulse
 
 The blood pressure of each patient can be categorised according to the decision table:
-
  
  
  Category                   | Systolic        | Diastolic
