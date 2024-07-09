@@ -1,4 +1,4 @@
-# SEDS504_HomeWork1
+# Sphygmomanometer
 
 This project is a Java program that simulates a sphygmomanometer (instrument for measuring blood pressure).
 
